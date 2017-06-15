@@ -1,0 +1,186 @@
+[
+    {
+        "outputFile": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 20,
+                        "endColumn": 11,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endLine": 31,
+                    "endColumn": 11,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endLine": 31,
+                        "endColumn": 11,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endLine": 38,
+                    "endColumn": 11,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endLine": 38,
+                        "endColumn": 11,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endLine": 45,
+                    "endColumn": 11,
+                    "endOffset": 1641
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1388,
+                        "endLine": 45,
+                        "endColumn": 11,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2438,
+                    "endColumn": 73,
+                    "endOffset": 2507
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2438,
+                        "endColumn": 73,
+                        "endOffset": 2507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2512,
+                    "endColumn": 66,
+                    "endOffset": 2574
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2512,
+                        "endColumn": 66,
+                        "endOffset": 2574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 2579,
+                    "endColumn": 77,
+                    "endOffset": 2652
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2579,
+                        "endColumn": 77,
+                        "endOffset": 2652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 2657,
+                    "endColumn": 75,
+                    "endOffset": 2728
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2657,
+                        "endColumn": 75,
+                        "endOffset": 2728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2733,
+                    "endColumn": 75,
+                    "endOffset": 2804
+                },
+                "from": {
+                    "file": "D:\\Projects\\ClubApp\\actionsContentViewLib\\build\\intermediates\\bundles\\debug\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2733,
+                        "endColumn": 75,
+                        "endOffset": 2804
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="D:\Projects\ClubApp\actionsContentViewLib\src\main\res"/><source path="D:\Projects\ClubApp\actionsContentViewLib\build\generated\res\rs\release"/><source path="D:\Projects\ClubApp\actionsContentViewLib\build\generated\res\resValues\release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="D:\Projects\ClubApp\actionsContentViewLib\src\release\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="D:\Projects\ClubApp\actionsContentViewLib\src\main\res"><file path="D:\Projects\ClubApp\actionsContentViewLib\src\main\res\values\attrs.xml" qualifiers=""><attr name="spacing_type">
+
+        
+        <enum name="right_offset" value="0"/>
+        
+        <enum name="actions_width" value="1"/>
+    </attr><declare-styleable name="ActionsContentView">
+
+        
+        <attr name="spacing_type"/>
+        
+        <attr format="dimension" name="spacing"/>
+        
+        <attr format="dimension" name="actions_spacing"/>
+        
+        <attr format="reference" name="actions_layout"/>
+        
+        <attr format="reference" name="content_layout"/>
+        
+        <attr format="reference" name="shadow_drawable"/>
+        
+        <attr format="dimension" name="shadow_width"/>
+        
+        <attr name="fade_type"/>
+        
+        <attr format="integer" name="fade_max_value"/>
+        
+        <attr format="integer" name="fling_duration"/>
+        
+        <attr name="swiping_type"/>
+        
+        <attr format="dimension" name="swiping_edge_width"/>
+        
+        <attr format="boolean" name="swiping_enabled"/>
+        
+        <attr name="effects"/>
+        
+        <attr format="reference" name="effect_actions"/>
+        
+        <attr format="reference" name="effect_content"/>
+        
+        <attr format="reference" name="effects_interpolator"/>
+    </declare-styleable><attr name="fade_type">
+
+        
+        <enum name="none" value="0"/>
+        
+        <enum name="actions" value="1"/>
+        
+        <enum name="content" value="2"/>
+        
+        <enum name="both" value="3"/>
+    </attr><attr name="effects">
+
+        
+        <enum name="none" value="0"/>
+        
+        <enum name="scroll_opening" value="1"/>
+        
+        <enum name="scroll_closing" value="2"/>
+        
+        <enum name="scroll" value="3"/>
+        
+        <enum name="fling_opening" value="4"/>
+        
+        <enum name="fling_closing" value="8"/>
+        
+        <enum name="fling" value="12"/>
+        
+        <enum name="all" value="15"/>
+    </attr><attr name="swiping_type">
+
+        
+        <enum name="full" value="0"/>
+        
+        <enum name="edge" value="1"/>
+    </attr></file><file path="D:\Projects\ClubApp\actionsContentViewLib\src\main\res\values\defaults.xml" qualifiers=""><integer name="default_actionscontentview_fling_duration">900</integer><dimen name="default_actionscontentview_actions_spacing">0dip</dimen><integer name="default_actionscontentview_fade_max_value">170</integer><dimen name="default_actionscontentview_swiping_edge_width">24dip</dimen><dimen name="default_actionscontentview_spacing">64dip</dimen></file></source><source path="D:\Projects\ClubApp\actionsContentViewLib\build\generated\res\rs\release"/><source path="D:\Projects\ClubApp\actionsContentViewLib\build\generated\res\resValues\release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="D:\Projects\ClubApp\actionsContentViewLib\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="ActionsContentView"><attr name="spacing_type"/><attr format="dimension" name="spacing"/><attr format="dimension" name="actions_spacing"/><attr format="reference" name="actions_layout"/><attr format="reference" name="content_layout"/><attr format="reference" name="shadow_drawable"/><attr format="dimension" name="shadow_width"/><attr name="fade_type"/><attr format="integer" name="fade_max_value"/><attr format="integer" name="fling_duration"/><attr name="swiping_type"/><attr format="dimension" name="swiping_edge_width"/><attr format="boolean" name="swiping_enabled"/><attr name="effects"/><attr format="reference" name="effect_actions"/><attr format="reference" name="effect_content"/><attr format="reference" name="effects_interpolator"/></declare-styleable></configuration></mergedItems></merger>
